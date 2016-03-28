@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\MyDevTools\Android\android-studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/afinaldemo" />
+            <option value="$PROJECT_DIR$/annotaiontest" />
+            <option value="$PROJECT_DIR$/annotationdemo" />
+            <option value="$PROJECT_DIR$/bluetoothdemo" />
+            <option value="$PROJECT_DIR$/bluetoothtest" />
+            <option value="$PROJECT_DIR$/ptr" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/afinaldemo" />
+            <option value="$PROJECT_DIR$/annotaiontest" />
+            <option value="$PROJECT_DIR$/annotationdemo" />
+            <option value="$PROJECT_DIR$/bluetoothdemo" />
+            <option value="$PROJECT_DIR$/bluetoothtest" />
+            <option value="$PROJECT_DIR$/ptr" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

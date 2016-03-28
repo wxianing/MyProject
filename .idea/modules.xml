@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/afinaldemo/afinaldemo.iml" filepath="$PROJECT_DIR$/afinaldemo/afinaldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotaiontest/annotaiontest.iml" filepath="$PROJECT_DIR$/annotaiontest/annotaiontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotationdemo/annotationdemo.iml" filepath="$PROJECT_DIR$/annotationdemo/annotationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothdemo/bluetoothdemo.iml" filepath="$PROJECT_DIR$/bluetoothdemo/bluetoothdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothtest/bluetoothtest.iml" filepath="$PROJECT_DIR$/bluetoothtest/bluetoothtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptr/ptr.iml" filepath="$PROJECT_DIR$/ptr/ptr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" filepath="$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" />
+    </modules>
+  </component>
+</project>

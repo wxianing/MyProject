@@ -1,0 +1,1 @@
+include ':ptr', ':afinaldemo', ':annotationdemo', ':annotaiontest', ':recyclerviewdemo', ':bluetoothtest', ':bluetoothdemo'
